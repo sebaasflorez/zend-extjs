@@ -1,0 +1,12 @@
+{
+    "name": "sebastian/quickstart",
+    "authors": [
+        {
+            "name": "sebaasflorez",
+            "email": "sebasflorez10@gmail.com"
+        }
+    ],
+    "require": {
+    	 "nategood/httpful": "*"
+    }
+}
